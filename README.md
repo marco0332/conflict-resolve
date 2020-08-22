@@ -2,7 +2,7 @@
 
 A
 
-B - modified on github
+B - modified on vscode
 
 C
 
